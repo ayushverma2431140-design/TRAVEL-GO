@@ -1,0 +1,6 @@
+{
+  "name": "Travel Go",
+  "description": "Online Travel Booking App for exploring destinations, booking bus, train, and flight tickets, and managing travel itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
